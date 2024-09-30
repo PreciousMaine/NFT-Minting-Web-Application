@@ -1,0 +1,19 @@
+{
+    "name": "Luna",
+    "description": "A quiet, introverted girl with a mysterious aura.",
+    "image": "ipfs://QmVNqzbZDi8YRXtmrvJgWb272ipgrsxwjSuc2hQco3G6bQ/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Night Sky"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2018"
+      }
+    ]
+  }

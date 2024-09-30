@@ -1,0 +1,19 @@
+  {
+    "name": "Ariella",
+    "description": "A bubbly, energetic girl with a passion for adventure.",
+    "image": "ipfs://QmVNqzbZDi8YRXtmrvJgWb272ipgrsxwjSuc2hQco3G6bQ/0.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2020"
+      }
+    ]
+  }

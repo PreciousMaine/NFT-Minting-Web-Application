@@ -1,0 +1,19 @@
+{
+    "name": "Zara",
+    "description": "A tech-savvy girl who loves coding and solving puzzles.",
+    "image": "ipfs://QmVNqzbZDi8YRXtmrvJgWb272ipgrsxwjSuc2hQco3G6bQ/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyber City"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2022"
+      }
+    ]
+  }
