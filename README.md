@@ -9,7 +9,7 @@
 ## Installation
 
 ### Clone the repository to your local machine:
-### git clone https://github.com/21Saliji/Minting_Web_App.git
+### git clone [https://github.com/PreciousMaine/NFT-Minting-Web-Application.git]
 
 ### Navigate to the Project Directory
 ### cd Minting_Web_App
